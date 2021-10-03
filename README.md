@@ -16,4 +16,7 @@ Steps
 7. Replacing text into series of number
 8. Make every sentences/ text same length
 9. Reversing keys values in word index dict, for decoding later
-10. Create LSTM model
+
+Model training 
+1. Create LSTM model
+2. Naive Bayes Classifiers
